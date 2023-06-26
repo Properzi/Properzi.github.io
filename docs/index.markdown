@@ -20,6 +20,5 @@ email: silvia.properzi@vub.be
 [Groups, Rings and the Yang-Baxter equation 2023](http://www.ilariacolazzo.info/gryb2023/)
 June 2023
 
-* [A graph associated with finite skew braces] 
-[The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html)
+* A graph associated with finite skew braces -- [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html)
 April 2023
