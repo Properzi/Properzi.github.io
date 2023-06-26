@@ -17,7 +17,7 @@ email: silvia.properzi@vub.be
 
 # Talks
 * [A common divisor graph for skew braces](http://www.ilariacolazzo.info/gryb2023/pdf/Properzi.pdf)
-[Groups, Rings and the Yang-Baxter equation 2023] (http://www.ilariacolazzo.info/gryb2023/)
+[Groups, Rings and the Yang-Baxter equation 2023](http://www.ilariacolazzo.info/gryb2023/)
 June 2023
 
 * [A graph associated with finite skew braces] 
