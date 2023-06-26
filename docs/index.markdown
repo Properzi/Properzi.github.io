@@ -1,5 +1,3 @@
----
-
 Vrije Universiteit Brussel  
 Faculty of Sciences and Bioengineering Sciences  
 Department of Mathematics and Data Science  
@@ -25,6 +23,3 @@ June 2023
 * [A graph associated with finite skew braces] 
 [The Interplay Between Skew Braces and Hopf-Galois Theory](https://interplaysbhg.github.io/index.html)
 April 2023
-
-
----
