@@ -9,8 +9,10 @@ I am currently a PhD student in Mathematics at the Vrije Universiteit Brussel in
 
 email: silvia.properzi@vub.be
 
+[CV]([https://properzi.github.io/docs/CV(7-7-23).pdf](https://properzi.github.io/CV(7-7-23).pdf))
 [Arxiv](https://arxiv.org/search/?searchtype=author&query=Properzi), 
-[Orcid](https://orcid.org/my-orcid?orcid=0000-0002-8228-9156),
+[Orcid](https://orcid.org/my-orcid?orcid=0000-0002-8228-9156)
+
 
 
 # Publications
@@ -18,8 +20,8 @@ email: silvia.properzi@vub.be
 * [A common divisor graph for skew braces](https://arxiv.org/abs/2306.12415) (w. A. Van Antwerpen), Arxiv:2306.12415.
 
 # Talks
-* [A common divisor graph for skew braces] --
-[Groups, Rings and the Yang-Baxter equation 2023](https://www.impan.pl/en/activities/banach-center/conferences/23-loops)
+* A common divisor graph for skew braces --
+[LOOPS'23](https://www.impan.pl/en/activities/banach-center/conferences/23-loops)
 June-July 2023
 
 * [A common divisor graph for skew braces](http://www.ilariacolazzo.info/gryb2023/pdf/Properzi.pdf) --
