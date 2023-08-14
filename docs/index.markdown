@@ -9,10 +9,10 @@ I am currently a PhD student in Mathematics at the Vrije Universiteit Brussel in
 
 email: silvia.properzi@vub.be
 
-[Research Portal VUB](https://researchportal.vub.be/en/persons/silvia-properzi),
 [CV](https://properzi.github.io/CV.pdf),
 [Arxiv](https://arxiv.org/search/?searchtype=author&query=Properzi), 
-[Orcid](https://orcid.org/my-orcid?orcid=0000-0002-8228-9156)
+[Orcid](https://orcid.org/my-orcid?orcid=0000-0002-8228-9156),
+[Research Portal VUB](https://researchportal.vub.be/en/persons/silvia-properzi)
 
 
 
