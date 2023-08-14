@@ -7,7 +7,7 @@ Pleinlaan 2,
 
 I am currently a PhD student in Mathematics at the Vrije Universiteit Brussel in the [VUB Algebra Research Group](https://leandrovendramin.org/team/). My supervisors are [Leandro Vendramin](https://leandrovendramin.org/) and [Arne Van Antwerpen](https://vanantwerpen.github.io/). 
 
-email: silvia.properzi@vub.be
+email: [silvia.properzi@vub.be](mailto:silvia.properzi@vub.be)
 
 [CV](https://properzi.github.io/CV.pdf),
 [Arxiv](https://arxiv.org/search/?searchtype=author&query=Properzi), 
