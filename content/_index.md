@@ -113,14 +113,15 @@ sections:
       # For Showcase view, flip alternate rows?
      # flip_alt_rows: false
   - block: collection
+  id: publications
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
+      #text: |-
+       # {{% callout note %}}
+       # Quickly discover relevant content by [filtering publications](./publication/).
+       # {{% /callout %}}
       filters:
-        folders:
+       folders:
           - publication
         exclude_featured: true
     design:
@@ -141,8 +142,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        # Contact (add or remove contact options as necessary)
       email: silvia.properzi@vub.be
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'

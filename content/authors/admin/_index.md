@@ -38,7 +38,7 @@ education:
     #- course: PhD in Artificial Intelligence
      # institution: Stanford University
      # year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: MSc in Mathematics
       institution: University of Pisa
       year: 2021
     - course: BSc in Mathematics
@@ -76,6 +76,6 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in Mathematics of [Leandro Vendramin](https://leandrovendramin.org/){:target="_blank"} working in the [VUB algebra research group](https://leandrovendramin.org/team/){:target="_blank"}. 
+I am a PhD student in Mathematics of [Leandro Vendramin](https://leandrovendramin.org/) working in the [VUB algebra research group](https://leandrovendramin.org/team/). 
 My reasearch interest focus on algebraic structures related to the study of the combinatorial version of the Yang-Baxter equation.
 {style="text-align: justify;"}
