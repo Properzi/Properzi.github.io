@@ -147,11 +147,6 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       address:
-      Vrije Universiteit Brussel  
-Faculty of Sciences and Bioengineering Sciences  
-Department of Mathematics and Data Science  
-  
-1050 Brussels, Belgium  
         street: Pleinlaan 2
         city: Brussels
         #region: CA
