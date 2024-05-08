@@ -30,20 +30,20 @@ all_day: true
 # Is this a featured talk? (true/false)
 featured: false
 
-image: false
+#image: false
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   #focal_point: Right
 
 links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-#url_code: ''
-#url_pdf: ''
+ - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/georgecushen
+url_code: ''
+url_pdf: ''
 url_slides: 'http://www.ilariacolazzo.info/gryb2023/pdf/Properzi.pdf'
-slides: uploads/GRYB2023.pdf
-#url_video: ''
+    slides: uploads/GRYB2023.pdf
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
