@@ -30,11 +30,11 @@ all_day: true
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
+image: false
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   #focal_point: Right
 
-#links:
+links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
