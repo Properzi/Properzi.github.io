@@ -18,7 +18,7 @@ location: Blankenberge, Belgium
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-06-20'
-date_end: '2023-06-20'
+date_end: ''
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -42,7 +42,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: 'http://www.ilariacolazzo.info/gryb2023/pdf/Properzi.pdf'
-    slides: uploads/GRYB2023.pdf
+#slides: uploads/GRYB2023.pdf
 url_video: ''
 
 # Markdown Slides (optional).
