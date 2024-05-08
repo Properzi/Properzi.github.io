@@ -4,7 +4,7 @@ title: A common divisor graph for skew braces
 event: Groups, Rings and the Yang-Baxter equation 2023
 event_url: http://www.ilariacolazzo.info/gryb2023/
 
-#location: Hugo Blox Builder HQ
+location: Blankenberge, Belgium
 #address:
  # street: 450 Serra Mall
   #city: Stanford
@@ -41,7 +41,8 @@ featured: false
 #    url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: ''
-#url_slides: ''
+url_slides: 'http://www.ilariacolazzo.info/gryb2023/pdf/Properzi.pdf'
+slides: uploads/GRYB2023.pdf
 #url_video: ''
 
 # Markdown Slides (optional).
@@ -49,7 +50,6 @@ featured: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: uploads/GRYB2023.pdf
 #slides = "GRYB2023"
 
 # Projects (optional).
