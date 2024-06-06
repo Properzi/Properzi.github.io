@@ -30,9 +30,9 @@ all_day: true
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+image:
+  caption: ''
+  focal_point: Right
 
 links:
   #- icon: twitter
@@ -41,7 +41,7 @@ links:
   #  url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'GRYB2023'
 url_video: ''
 #url_slides: 'http://www.ilariacolazzo.info/gryb2023/pdf/Properzi.pdf'
 #slides: uploads/GRYB2023.pdf
@@ -51,7 +51,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides : GRYB2023
+slides : ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
