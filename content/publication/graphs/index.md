@@ -1,27 +1,36 @@
-#---
-#title: "An example journal article"
-#authors:
-#- admin
-#- Robert Ford#
-author_notes:
+---
+
+@misc{PVA2024,
+      title={}, 
+      author={Silvia Properzi and Arne Van Antwerpen},
+      year={2024},
+      eprint={2306.12415},
+      archivePrefix={arXiv},
+      primaryClass={math.CO}
+}
+title: "Common divisor graphs for skew braces"
+authors:
+- admin
+- Arne Van Antwerpen
+#author_notes:
 #- "Equal contribution"
 #- "Equal contribution"#
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2015-06-21"
+doi: "https://doi.org/10.48550/arXiv.2306.12415"
 #
 ## Schedule page publish date (NOT publication's date).#
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 #
 ## Publication type.
 ## Accepts a single type but formatted as a YAML list (for Hugo requirements).
 ## Enter a publication type from the CSL standard.
-#publication_types: ["article-journal"]
+publication_types: ["article"]
 #
 ## Publication name and optional abbreviated publication name.
 #publication: "*Journal of Source Themes, 1*(1)"
 #publication_short: ""
 #
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We introduce two common divisor graphs associated with a finite skew brace, based on its $\lambda$- and $\theta$-orbits. We prove that the number of connected components is at most two and the diameter of a connected component is at most four. Furthermore, we investigate their relationship with isoclinism. Similarly to its group theoretic inspiration, the skew braces with a graph with two disconnected vertices are very restricted and are determined. Finally, we classify all finite skew braces with a graph with one vertex, where four infinite families arise.
 #
 ## Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere #tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
@@ -30,10 +39,10 @@ publishDate: "2017-01-01T00:00:00Z"
 #- Source Themes
 #featured: false
 #
-## links:
-## - name: ""
-##   url: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+ links:
+ - name: "arXiv"
+   url: "https://arxiv.org/abs/2306.12415"
+url_pdf: https://arxiv.org/pdf/2306.12415
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
@@ -54,7 +63,7 @@ publishDate: "2017-01-01T00:00:00Z"
 ##   Simply enter your project's folder or file name without extension.
 ##   E.g. `internal-project` references `content/project/internal-project/index.#md`.
 ##   Otherwise, set `projects: []`.
-#projects: []
+projects: []
 #
 ## Slides (optional).
 ##   Associate this publication with Markdown slides.
