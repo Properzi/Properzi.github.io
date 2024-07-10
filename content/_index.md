@@ -30,31 +30,31 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-    design:
-      columns: '1'
+  #- block: markdown
+  #  content:
+  #    title: '📚 My Research'
+  #    subtitle: ''
+  #    text: |-
+  #  design:
+  #    columns: '1'
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
   - block: collection
-    id: papers
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Preprints
       text: ""
       filters:
         folders:
-          - publication
+          - preprints
         exclude_featured: false
     design:
       view: citation
@@ -75,7 +75,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: publication, talk
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
