@@ -183,4 +183,5 @@ education:
 
 ## About Me
 
-I am a PhD student in Mathematics
+I am a PhD student in Mathematics of [Leandro Vendramin](https://leandrovendramin.org/) working in the [VUB algebra research group](https://leandrovendramin.org/team/). 
+        My reasearch interest focus on algebraic structures related to the study of the combinatorial version of the Yang-Baxter equation.
