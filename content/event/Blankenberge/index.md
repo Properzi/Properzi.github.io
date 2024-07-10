@@ -14,14 +14,39 @@ location: Blankenberge, Belgium
 
 summary: A common divisor graph for skew braces
 
-abstract: 'In the combinatorial study of solutions to the Yang--Baxter equation (YBE), recently introduced ring-theoretical objects play a fundamental role: skew braces. A skew brace is a set with two group operations $+$ and $\circ$ satisfying a compatibility condition. In a skew brace $(A,+,\circ)$, the group $(A,\circ)$ acts on $(A,+)$ by automorphism via the $\lambda$-map, $\lambda \colon (A,\circ)\to \textrm{Aut}(A,+)$. This action is involved in the (universal) construction of the set-theoretic solutions to the YBE provided by skew braces. Furthermore, the $\lambda$-action deeply influences the structure of a finite skew brace, as e.g. ideals are $\lambda$-invariant normal subgroups (for both group structures). Motivated by similar ideas in representation theory of finite groups and by the work of of Bertram, Herzog, and Mann, we study a \emph{common divisor graph}: the simple undirected graph whose vertices are the non-trivial $\lambda$-orbits and two vertices are adjacent if their sizes are not coprime. We provide some examples and prove that it has at most two connected components and that, in the connected case, its diameter is at most four. The main result is a complete classification of finite skew braces with a one-vertex graph. In particular, the number of non-isomorphic skew braces of size $2^md$ (with $d$ odd) whose graph has only one vertex is $m\cdot a(d)$ if $m\leq3$ and $2a(d)$ if $m\geq4$, where $a(d)$ is the number of isomorphism classes of abelian groups of order $d$.
+abstract: 'In the combinatorial study of solutions to the Yang--Baxter equation (YBE),
+recently introduced ring-theoretical objects play a fundamental role: skew braces.
+A skew brace is a set with two group operations $+$ and $\circ$ 
+satisfying a compatibility condition. 
+In a skew brace $(A,+,\circ)$, the group $(A,\circ)$ acts on $(A,+)$
+by automorphism via the $\lambda$-map,
+$\lambda \colon (A,\circ)\to \textrm{Aut}(A,+)$. 
+This action is involved in the (universal) 
+construction of the set-theoretic solutions to the YBE provided by skew braces.
+Furthermore, the $\lambda$-action deeply influences the structure of a finite skew brace,
+as e.g. ideals are $\lambda$-invariant normal subgroups (for both group structures).
+Motivated by similar ideas in representation theory of finite groups
+and by the work of of Bertram, Herzog, and Mann,
+we study a \emph{common divisor graph}: 
+the simple undirected graph whose vertices are
+the non-trivial $\lambda$-orbits and
+two vertices are adjacent if their sizes are not coprime.
+We provide some examples 
+and prove that it has at most two connected components and that, 
+in the connected case, its diameter is at most four. 
+The main result is a complete classification of finite skew braces 
+with a one-vertex graph. 
+In particular, the number of non-isomorphic skew braces of size $2^md$ 
+(with $d$ odd) whose graph has only one vertex is 
+$m\cdot a(d)$ if $m\leq3$ and $2a(d)$ if $m\geq4$, 
+where $a(d)$ is the number of isomorphism classes of abelian groups of order $d$.
 Joint work with Arne Van Antwerpen.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-06-20'
 #date_end: '2023-06-20'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 #publishDate: '2017-01-01T00:00:00Z'
