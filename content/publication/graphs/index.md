@@ -28,7 +28,7 @@ abstract: We introduce two common divisor graphs associated with a finite skew b
 #
 #tags:
 #- Source Themes
-#featured: false
+featured: false
 #
  links:
  - name: "arXiv"

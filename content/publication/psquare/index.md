@@ -27,7 +27,7 @@ summary: A full classification of the indecomposable set-theoretical solutions t
 #tags:
 #- Large Language Models
 
-featured: true
+featured: false
 
 links:
 - name: arXiv
