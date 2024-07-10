@@ -44,7 +44,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_event: 'https://www.ilariacolazzo.info/gryb2023/'
-url_pdf: 'gryb2023_poster.pdf'
+url_poster: 'gryb2023_poster.pdf'
 url_slides: 'SlidesBlankenberghe.pdf'
 #url_video: 'https://youtube.com'
 
