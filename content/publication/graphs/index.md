@@ -1,13 +1,4 @@
 ---
-
-@misc{PVA2024,
-      title={}, 
-      author={Silvia Properzi and Arne Van Antwerpen},
-      year={2024},
-      eprint={2306.12415},
-      archivePrefix={arXiv},
-      primaryClass={math.CO}
-}
 title: "Common divisor graphs for skew braces"
 authors:
 - admin
