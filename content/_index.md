@@ -66,7 +66,7 @@ sections:
         folders:
           - event
     design:
-      view: citation
+      view: compact
       columns: 1
   - block: collection
     id: news
