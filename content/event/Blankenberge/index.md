@@ -1,7 +1,7 @@
 ---
-title: Groups, Rings and the Yang-Baxter equation 2023
+title: A common divisor graph for skew braces
 
-event: Conference Groups, Rings and the Yang-Baxter equation 2023
+event: Groups, Rings and the Yang-Baxter equation 2023
 event_url: https://www.ilariacolazzo.info/gryb2023/
 
 location: Blankenberge, Belgium
@@ -12,7 +12,7 @@ location: Blankenberge, Belgium
 #  postcode: '94305'
 #  country: United States
 
-summary: A common divisor graph for skew braces
+summary: Groups, Rings and the Yang-Baxter equation 2023
 
 abstract: 'In the combinatorial study of solutions to the Yang--Baxter equation (YBE),
 recently introduced ring-theoretical objects play a fundamental role: skew braces.
