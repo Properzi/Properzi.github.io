@@ -37,27 +37,28 @@ sections:
   #    text: |-
   #  design:
   #    columns: '1'
-  #- block: collection
-  #  id: papers
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    view: article-grid
-  #    columns: 2
   - block: collection
+    id: papers
     content:
-      title: Preprints
-      text: ""
+      title: Papers
       filters:
         folders:
-          - preprint
-        exclude_featured: false
+          - preprints
+          - publication
+        featured_only: true
     design:
-      view: citation
+      view: article-grid
+      columns: 2
+  #- block: collection
+  #  content:
+  #    title: Preprints
+  #    text: ""
+  #    filters:
+  #      folders:
+  #        - preprint
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
   - block: collection
     id: talks
     content:
@@ -66,7 +67,7 @@ sections:
         folders:
           - event
     design:
-      view: compact
+      view: list
       columns: 1
   - block: collection
     id: news
