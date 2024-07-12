@@ -26,10 +26,10 @@ role: PhD Student
 organizations:
   - name: Vrije Universiteit Brussel
     url: https://www.vub.be/en
-  - address: Vrije Universiteit Brussel Building G, Pleinlaan 2, 1050 Elsene
+  #- address: Vrije Universiteit Brussel Building G, Pleinlaan 2, 1050 Elsene
     coordinates: 
-    latitude: 50.822056
-    longitude: 4.397056
+      latitude: '50.822056'
+      longitude: '4.397056'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
