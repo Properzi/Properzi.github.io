@@ -117,13 +117,13 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      filters:
-        folders:
-          - contact
-    design:
-      columns: '2'
+  #- block: contact
+  #  id: contact
+  #  content:
+  #    title: Contact
+  #    filters:
+  #      folders:
+  #        - contact
+  #  design:
+  #    columns: '2'
 ---
