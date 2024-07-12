@@ -121,9 +121,6 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-       
       # Contact (add or remove contact options as necessary)
       email: silvia.properzi@vub.be
       #phone:
