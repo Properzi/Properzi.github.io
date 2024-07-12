@@ -14,10 +14,8 @@ location: Będlewo, Poland
 
 summary: LOOPS'23
 
-bibliography: refs.bib
-
 abstract: 'In the combinatorial study of solutions to the Yang--Baxter equation (YBE), recently 
-introduced ring-theoretical objects play a fundamental role: skew braces.
+introduced ring-theoretical objects play a fundamental role: skew braces.\
 A skew brace is a set with two group operations 
 $+$ and $\circ$ satisfying a compatibility condition.
 In a skew brace $(A,+,\circ)$,
@@ -42,21 +40,21 @@ and that, in the connected case, its diameter
 is at most four.
 The main result is a complete classification of finite skew braces
 with a one-vertex graph.
-In particular, we have the following enumeration.
+In particular, we have the following enumeration.\
 
-**Theorem 1.**
-  *There are only three non-isomorphic finite skew braces with an abelian additive group and one-vertex graph.*
+**Theorem 1.**\
+  *There are only three non-isomorphic finite skew braces with an abelian additive group and one-vertex graph.*\
 
-**Theorem 2.**
+**Theorem 2.**\
 
   *The number of non-isomorphic skew braces of size $2^md$ (with $d$ odd)
   whose graph has only one vertex is
   $ma(d)$ if $m\leq3$ and $2a(d)$ if $m\geq4$,
   where $a(d)$ is the number of isomorphism classes
-  of abelian groups of order $d$.*
+  of abelian groups of order $d$.*\
   
-**References**
-  [1] M.L.Lewis, *An Overview of Graphs Associated with Character Degrees And Conjugacy Class Sizes in Finite Groups*, The Rocky Mountain Journal of Mathematics 38 (175-211), 2008
+**References**\
+  [1] M.L.Lewis, *An Overview of Graphs Associated with Character Degrees And Conjugacy Class Sizes in Finite Groups*, The Rocky Mountain Journal of Mathematics 38 (175-211), 2008\
 
   [2] E.A. Bertram, M. Herzog, M.A. Mann, *On a graph related to conjugacy classes of groups*, 
   The Bulletin of the London Mathematical Society 6 (569-575), 1990.'
