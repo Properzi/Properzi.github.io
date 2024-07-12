@@ -117,4 +117,32 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+       
+      # Contact (add or remove contact options as necessary)
+      email: silvia.properzi@vub.be
+      #phone:
+      #appointment_url: 'https://calendly.com'
+      address:
+        street: Pleinlaan 2, Building G
+        city: Elsene
+        #region: 
+        postcode: '1050'
+        country: Belgium
+        country_code: BE
+      #directions: 
+      #office_hours:
+        #- 'Monday 10:00 to 13:00'
+        #- 'Wednesday 09:00 to 10:00'
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '50.822056'
+        longitude: '4.397056'  
+    design:
+      columns: '2'
 ---
