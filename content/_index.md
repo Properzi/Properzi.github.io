@@ -54,7 +54,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - preprint
         exclude_featured: false
     design:
       view: citation
@@ -66,7 +66,7 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
+      view: compact
       columns: 1
   - block: collection
     id: news
