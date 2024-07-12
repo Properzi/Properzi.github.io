@@ -14,13 +14,15 @@ location: Będlewo, Poland
 
 summary: LOOPS'23
 
+bibliography: refs.bib
+
 abstract: 'In the combinatorial study of solutions to the Yang--Baxter equation (YBE), recently 
 introduced rings-theoretical objects play a fundamental role: skew braces.
 A skew brace is a set with two group operations 
 $+$ and $\circ$ satisfying a compatibility condition.
 In a skew brace $(A,+,\circ)$,
 the group $(A,\circ)$ acts on $(A,+)$ by automorphism
-via the so-called $\lambda$-map, $\lambda\colon (A,\circ)\to$Aut$(A,+)$.
+via the so-called $\lambda$-map, $\lambda\colon (A,\circ)\to\textrm{Aut}(A,+)$.
 This action is involved in the (universal) construction of
 the set-theoretic solutions to the YBE
 provided by skew braces.
@@ -50,10 +52,7 @@ In particular, we have the following enumeration.
   whose graph has only one vertex is
   $ma(d)$ if $m\leq3$ and $2a(d)$ if $m\geq4$,
   where $a(d)$ is the number of isomorphism classes
-  of abelian groups of order $d$.
-
-**Referneces**
-bibliography: refs.bib'
+  of abelian groups of order $d$.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
