@@ -60,4 +60,5 @@ features:
     enable: false
   map:
     provider: google
+    api_key: ''
     zoom: 15
