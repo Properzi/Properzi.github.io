@@ -3,7 +3,7 @@ title: "Common divisor graphs for skew braces"
 authors:
 - admin
 - Arne Van Antwerpen
-date: "2015-06-21"
+date: "2023-06-21"
 doi: "https://doi.org/10.48550/arXiv.2306.12415"
 
 # Schedule page publish date (NOT publication's date).
@@ -61,8 +61,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
-
 #This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 #{{% callout note %}}
