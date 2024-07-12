@@ -1,10 +1,11 @@
 ---
 title: A graph associated with finite skew braces
+subtitle: The Interplay Between Skew Braces and Hopf-Galois Theory
 
 event: The Interplay Between Skew Braces and Hopf-Galois Theory
-event_url: https://www.ilariacolazzo.info/gryb2023/
+event_url: https://interplaysbhg.github.io/past_editions.html
 
-location: Keele UNiversity, UK
+location: Keele University, UK
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -16,7 +17,7 @@ summary: The Interplay Between Skew Braces and Hopf-Galois Theory
 
 abstract: 'Inspired by a work of Bertram, Herzog, and Mann, we introduce a graph
 associated with the $\lambda$-classes of a given finite skew brace. Given a finite skew
-brace A, its graph of non-trivial $\lambda$-classes has as vertices the non-trivial λorbits of A and two vertices are adjacent if their sizes are not coprime.
+brace A, its graph of non-trivial $\lambda$-classes has as vertices the non-trivial $\lampda$-orbits of A and two vertices are adjacent if their sizes are not coprime.
 This graph has similar properties to the one defined for groups by Bertram,
 Herzog, and Mann: it has at most two connected components, some bounds
 on the diameter and there is only one skew brace whose graph consists of
