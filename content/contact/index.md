@@ -1,11 +1,6 @@
 ---
 title: Contact
 
-# Optional cover image (relative to `assets/media/` folder).
-image:
-  caption: ''
-  filename: ''
-
 email: silvia.properzi@vub.be
 location: Elsene, Belgium
 address:
