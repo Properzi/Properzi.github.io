@@ -45,10 +45,9 @@ sections:
         folders:
           - preprints
           - publication
-        featured_only: true
+        featured_only: false
     design:
-      view: article-grid
-      columns: 2
+      view: citation
   #- block: collection
   #  content:
   #    title: Preprints
