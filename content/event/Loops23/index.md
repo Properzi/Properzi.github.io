@@ -20,7 +20,7 @@ A skew brace is a set with two group operations
 $+$ and $\circ$ satisfying a compatibility condition.
 In a skew brace $(A,+,\circ)$,
 the group $(A,\circ)$ acts on $(A,+)$ by automorphism
-via the so-called $\lambda$-map, $\lambda\colon (A,\circ)\to\Aut(A,+)$.
+via the so-called $\lambda$-map, $\lambda\colon (A,\circ)\to$Aut$(A,+)$.
 This action is involved in the (universal) construction of
 the set-theoretic solutions to the YBE
 provided by skew braces.
@@ -28,11 +28,10 @@ Furthermore, the $\lambda$-action deeply influences the structure of a finite sk
 as e.g. ideals are $\lambda$-invariant 
 normal subgroups (for both group structures).
 Motivated by similar ideas in representation theory
-of finite groups (see \cite{MR2397031})
+of finite groups (see @MR2397031)
 and by the work of 
-of Bertram, Herzog, and Mann \cite{MR1099007}, 
-we study a \emph{common divisor graph}:
-% associated with a finite skew brace $A$:
+of Bertram, Herzog, and Mann @MR1099007, 
+we study a *common divisor graph*:
 the simple undirected graph whose vertices are the non-trivial $\lambda$-orbits 
 and two vertices are adjacent if their sizes are not coprime. 
 We provide some examples and prove
@@ -42,26 +41,19 @@ is at most four.
 The main result is a complete classification of finite skew braces
 with a one-vertex graph.
 In particular, we have the following enumeration.
-\begin{theorem}
-    There are only three non-isomorphic finite skew braces
-    with an abelian additive group and one-vertex graph.
-\end{theorem}
+**Theorem 1.**
+  There are only three non-isomorphic finite skew braces
+  with an abelian additive group and one-vertex graph.
 
-\begin{thm}
-    The number of non-isomorphic skew braces of size $2^md$ (with $d$ odd)
-    whose graph has only one vertex is
-    $ma(d)$ if $m\leq3$ and $2a(d)$ if $m\geq4$,
-    where $a(d)$ is the number of isomorphism classes
-    of abelian groups of order $d$.
-\end{thm}
+**Theorem 2.**
+  The number of non-isomorphic skew braces of size $2^md$ (with $d$ odd)
+  whose graph has only one vertex is
+  $ma(d)$ if $m\leq3$ and $2a(d)$ if $m\geq4$,
+  where $a(d)$ is the number of isomorphism classes
+  of abelian groups of order $d$.
 
-\begin{thebibliography}{37}
-
-\bibitem{MR2397031} M.L. Lewis, \emph{An overview of graphs associated with character degrees and conjugacy class sizes in finite groups}, The Rocky Mountain Journal of Mathematics 38 (175-211), 2008.
-
-\bibitem{MR1099007} E.A. Bertram, M. Herzog, Marcel, A. Mann, \emph{On a graph related to conjugacy classes of groups}, The Bulletin of the London Mathematical Society 6 (569-575), 1990.
-
-\end{thebibliography}'
+**Referneces**
+bibliography: refs.bib'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

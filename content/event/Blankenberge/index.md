@@ -27,7 +27,7 @@ Furthermore, the $\lambda$-action deeply influences the structure of a finite sk
 as e.g. ideals are $\lambda$-invariant normal subgroups (for both group structures).
 Motivated by similar ideas in representation theory of finite groups
 and by the work of of Bertram, Herzog, and Mann,
-we study a \emph{common divisor graph}: 
+we study a *common divisor graph*: 
 the simple undirected graph whose vertices are
 the non-trivial $\lambda$-orbits and
 two vertices are adjacent if their sizes are not coprime.
