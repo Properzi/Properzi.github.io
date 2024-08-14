@@ -1,11 +1,11 @@
 ---
 title: Galois Theory (tutorials)
 summary: Introduction to field theory and Galois theory.
-year: 2023/2024
+date: February, 2024
 type: docs
 math: true
-tags:
-  - Galois
+#tags:
+#  - Galois
 #Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 #{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
 
