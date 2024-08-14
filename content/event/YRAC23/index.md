@@ -12,7 +12,7 @@ location: L'Aquila, Italy
 #  postcode: '94305'
 #  country: United States
 
-summary: YRAQ203
+summary: YRAQ2023
 
 abstract: 'In the combinatorial study of solutions to the Yang--Baxter equation (YBE),
 recently introduced ring-theoretical objects play a fundamental role: skew braces.
