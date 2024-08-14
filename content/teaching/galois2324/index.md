@@ -1,7 +1,9 @@
 ---
 title: Galois Theory (tutorials)
 summary: Introduction to field theory and Galois theory.
-date: February, 2024
+date_start: 2024-02-16
+date_end: 2024-05-24
+#year: 2024
 type: docs
 math: true
 #tags:
