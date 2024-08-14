@@ -1,8 +1,7 @@
 ---
 title: Ring and Module Theory (tutorials)
 summary: Introduction to the algebraic structure of rings, modules and group representations
-date_start: 2024-09-27
-date_end: 2024-12-20
+date: 2024-09-27
 type: docs
 math: true
 #tags:
