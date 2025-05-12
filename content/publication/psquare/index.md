@@ -4,7 +4,7 @@ authors:
 - Carsten Dietzel
 - admin
 - Senne Trappeniers
-date: "2024-10-5"
+date: "2024-10-05"
 doi: "https://doi.org/10.1080/00927872.2024.2405024"
 
 # Schedule page publish date (NOT publication's date).
