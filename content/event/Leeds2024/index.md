@@ -42,8 +42,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_event: 'https://sites.google.com/view/itmaia'
-url_poster: 'https://drive.google.com/file/d/14JBNA7xiOTZkSgu_pPg0rN0GwjMyHzCp/view'
+url_event: 'https://conferences.leeds.ac.uk/artin/'
+url_poster: 'https://conferences.leeds.ac.uk/artin/wp-content/uploads/sites/97/2024/12/ARTIN_IN_LEEDS.pdf'
 #url_slides: 'SlidesBlankenberghe.pdf'
 #url_video: 'https://youtube.com'
 
