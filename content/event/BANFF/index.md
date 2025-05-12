@@ -41,8 +41,8 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_event: 'https://sites.google.com/view/itmaia'
-url_poster: 'https://drive.google.com/file/d/14JBNA7xiOTZkSgu_pPg0rN0GwjMyHzCp/view'
+url_event: 'https://www.birs.ca/events/2024/5-day-workshops/24w5201'
+#url_poster: ''
 #url_slides: 'SlidesBlankenberghe.pdf'
 #url_video: 'https://youtube.com'
 
