@@ -29,7 +29,7 @@ summary: A full classification of the indecomposable set-theoretical solutions t
 featured: false
 
 links:
-- name url
+- name: url
   url: https://doi.org/10.1080/00927872.2024.2405024
 - name: arXiv
   url: https://arxiv.org/abs/2403.18653
