@@ -1,7 +1,7 @@
 ---
 title: Indecomposable involutive solutions to the Yang-Baxter equation of prime-squared size
 
-event: Biracks and Biquandles: Theory, applications, and new perspectives
+event: "Biracks and Biquandles: Theory, applications, and new perspectives"
 event_url: https://conferences.leeds.ac.uk/artin/
 
 location: Leeds, UK
