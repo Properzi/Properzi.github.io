@@ -12,7 +12,7 @@ location: Leeds, UK
 #  postcode: '94305'
 #  country: United States
 
-summary: ITMAIA
+summary: "Biracks and Biquandles: Theory, applications, and new perspectives"
 
 abstract: 'In joint work with  Carsten Dietzel and Senne Trappeniers, we study involutive indecomposable  solutions to the Yang-Baxter equation. These solutions correspond to a transitive permutation group that encodes their combinatorial properties through an associated permutation skew brace. Building on works by  Jedlička-Pilitowska and Cedó-Okniński, we fully classify solutions of prime-squared size.'
 
