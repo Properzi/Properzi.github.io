@@ -6,7 +6,7 @@ type: book
 
 # Magma Workshop
 
-Here there is a collection of some magma exercises done during the
+Here is a collection of some magma exercises done during the
 [magma workshop](https://leandrovendramin.org/magma/)
 
 ---
@@ -14,8 +14,6 @@ Here there is a collection of some magma exercises done during the
 ## Exercises
 
 ### Rings
-<details>
-<summary>Click to expand: Calculate the order of a group</summary>
 
 **Exercise**:
 Compute \(\mathcal{U}(\mathbb{Z}/5[X])\).
