@@ -97,4 +97,16 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+    - block: collection
+    id: magma
+    content:
+      title: magma workshop
+      filters:
+        folders:
+          - Magma
+    design:
+      view: compact
+      columns: 1
+
+
 ---
