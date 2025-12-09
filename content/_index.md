@@ -69,6 +69,16 @@ sections:
       view: compact
       columns: 1
   - block: collection
+    id: magma
+    content:
+      title: Magma workshop
+      filters:
+        folders:
+          - Magma
+    design:
+      view: compact
+      columns: 1
+  - block: collection
     id: news
     content:
       title: Recent News
