@@ -12,6 +12,30 @@ Here is a collection of some magma exercises done during the
 
 ### Actions
 
+```magma
+GSetFromIndexed(G, Y) : GrpPerm, SetIndx -> GSet
+```
+```magma
+GSet(G, X, Y) : GrpPerm, GSet, SetEnum -> GSet
+```
+
+```magma
+GSet(G, Y) : GrpPerm, Set -> GSet
+```
+
+
+Given a group G and an indexed set Y with the same cardinality as the natural G-set, return a G-set corresponding to the natural bijection between the labelling L (= (Labelling(G))) of G and Y. Explicitly, the bijection is φ: L -> Y: l |-> Y[(Position)(L, l)]. Then the returned G-set is the set Y endowed with the action f: Y x G -> Y: (y, p) |-> φ(p(φ - 1(y))).
+
+G-sets seem to work only for GrpPerm
+How to use it for GrpPC?
+**Example**:  
+```magma
+G:=SmallGroup(96,3);
+T:=sub<G|G.0>;
+F, P, K:=CosetAction(G,T);
+```
+
+
 #### Coset Action and regular representation
 The functions
 ```magma
@@ -42,7 +66,7 @@ Let $G$ be the group
 ```magma
 G:=SmallGroup(96,3);
 ```
-Can you give me a (faithful) permutation representation of $G$?
+Construct a (faithful) permutation representation of $G$?
 
 
 
