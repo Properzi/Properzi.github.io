@@ -19,10 +19,11 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: The quantum Yang-Baxter equation is a braiding condition on vector spaces which is of high relevance in several fields of mathematics, such as knot theory and quantum group theory. Their combinatorial counterpart are set-theoretic solutions to the Yang--Baxter equation, whose investigation is strongly driven by the study of algebraic objects called (skew) braces. In this article, we focus on indecomposable involutive non-degenerate set-theoretic solutions to the Yang-Baxter equation. More specifically, through a thorough analysis of their associated braces, we give a full classification of those which are of size $p^2$, for $p$ a prime.
+abstract: This article investigates Dehornoy's monomial representations for structure groups and Coxeter-like groups of a set-theoretic solution to the Yang-Baxter equation.
+Using the brace structure of these two groups and the language of cycle sets, we relate the irreducibility of monomial representations to the indecomposability of the solutions. Furthermore, in the case of an indecomposable solution, we show how to obtain these representations by induction from explicit one-dimensional representations.
 
 # Summary. An optional shortened abstract.
-summary: A full classification of the indecomposable set-theoretical solutions to the Yang-Baxter equation of size $p^2$.
+summary: Interplay between indecomposability and irreducibility of Dehornoy's representations for set-theoretic solution to the Yang-Baxter equation.
 
 #tags:
 #- Large Language Models
