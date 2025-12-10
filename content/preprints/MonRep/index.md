@@ -13,7 +13,7 @@ doi: "https://doi.org/10.48550/arXiv.2409.10648"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
