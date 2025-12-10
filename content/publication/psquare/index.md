@@ -31,7 +31,7 @@ featured: false
 links:
 - name: url
   url: https://doi.org/10.1080/00927872.2024.2405024
-- name: arXiv
+- name: arXiv version
   url: https://arxiv.org/abs/2403.18653
 url_pdf: https://arxiv.org/pdf/2403.18653
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
