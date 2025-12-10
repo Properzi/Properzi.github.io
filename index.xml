@@ -37,20 +37,24 @@ at &lt;a href="https://www.vub.be/en" target="_blank" rel="noopener">Vrije Unive
 &lt;span class="dark:text-neutral-300">&lt;a href="mailto:silvia.properzi@vub.be">Contact me&lt;/a> for any comments or suggestions.&lt;/span>
 &lt;/div></description></item><item><title>Experience</title><link>https://properzi.github.io/experience/</link><pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate><guid>https://properzi.github.io/experience/</guid><description/></item><item><title>Graphs, group actions and skew braces</title><link>https://properzi.github.io/event/waaq2023/</link><pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate><guid>https://properzi.github.io/event/waaq2023/</guid><description/></item><item><title>A common divisor graph for skew braces</title><link>https://properzi.github.io/event/loops23/</link><pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate><guid>https://properzi.github.io/event/loops23/</guid><description/></item><item><title>A common divisor graph for skew braces</title><link>https://properzi.github.io/event/blankenberge/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://properzi.github.io/event/blankenberge/</guid><description/></item><item><title>A common divisor graph for skew braces</title><link>https://properzi.github.io/event/yrac23/</link><pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate><guid>https://properzi.github.io/event/yrac23/</guid><description/></item><item><title>A graph associated with finite skew braces</title><link>https://properzi.github.io/event/keele23/</link><pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate><guid>https://properzi.github.io/event/keele23/</guid><description/></item><item><title/><link>https://properzi.github.io/event/oscar-summer-school/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://properzi.github.io/event/oscar-summer-school/</guid><description>&lt;p>event_url: &lt;a href="https://www.oscar-system.org/events/meetings/2025-09/" target="_blank" rel="noopener">https://www.birs.ca/events/2024/5-day-workshops/24w5201&lt;/a>&lt;/p>
 &lt;p>date: &amp;lsquo;2025-09-15&amp;rsquo;
-date_end: &amp;lsquo;2025-09-19&amp;rsquo;&lt;/p></description></item><item><title>Contact</title><link>https://properzi.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://properzi.github.io/contact/</guid><description/></item><item><title>Rump package</title><link>https://properzi.github.io/project/scikit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://properzi.github.io/project/scikit/</guid><description>&lt;p>Rump is a &amp;hellip;&lt;/p></description></item><item><title>Magma Workshop</title><link>https://properzi.github.io/magma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://properzi.github.io/magma/</guid><description>&lt;h1 id="magma-workshop">Magma Workshop&lt;/h1>
+date_end: &amp;lsquo;2025-09-19&amp;rsquo;&lt;/p></description></item><item><title>Contact</title><link>https://properzi.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://properzi.github.io/contact/</guid><description/></item><item><title>Rump package</title><link>https://properzi.github.io/project/scikit/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://properzi.github.io/project/scikit/</guid><description>&lt;p>Rump is a &amp;hellip;&lt;/p></description></item><item><title>Magma Workshop</title><link>https://properzi.github.io/magma/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://properzi.github.io/magma/</guid><description>&lt;h1 id="exercises">Exercises&lt;/h1>
 &lt;p>Here is a collection of some magma exercises done during the
 &lt;a href="https://leandrovendramin.org/magma/" target="_blank" rel="noopener">magma workshop&lt;/a>&lt;/p>
 &lt;hr>
-&lt;h2 id="exercises">Exercises&lt;/h2>
+&lt;h2 id="groups">Groups&lt;/h2>
 &lt;hr>
-&lt;h3 id="groups">Groups&lt;/h3>
+&lt;h3 id="actions">Actions&lt;/h3>
 &lt;p>The functions&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">CosetAction(G, H) : Grp, Grp -&amp;gt; Hom(Grp), GrpPerm, Grp
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>and&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">RegularRepresentation(G, H) : Grp, Grp -&amp;gt; Hom(Grp), GrpPerm, Grp
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>construct the permutation representation of $G$ on the (right) cosets of $H$ in $G$.
-It returns the homomorphism, the image and (if possible) the kernel&lt;/p>
-&lt;hr>
+It returns the homomorphism, the image and (if possible) the kernel.&lt;/p>
+&lt;p>Note that you can get only the image using&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">CosetImage(G, H) : Grp, Grp -&amp;gt; GrpPerm
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>and only the kernel using&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">CosetKernel(G, H) : Grp, Grp -&amp;gt; Grp
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;p>&lt;strong>Exercise&lt;/strong>:&lt;br>
 Let $G$ be the group ```magma
 G:=SmallGroup(96,3);&lt;/p>
@@ -118,7 +122,7 @@ group.&lt;/p>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="rings">Rings&lt;/h3>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="rings">Rings&lt;/h2>
 &lt;hr>
 &lt;p>&lt;strong>Exercise&lt;/strong>:&lt;br>
 Compute \(\mathcal{U}(\mathbb{Z}/5[X])\).&lt;/p>
