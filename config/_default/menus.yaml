@@ -26,7 +26,7 @@ main:
     url: teaching/
     weight: 40
   - name: Magma
-    url: Magma/
+    url: magma/
     weight: 50    
   - name: Contact
     url: contact/
