@@ -17,6 +17,7 @@ Here is a collection of some magma exercises done during the
 
 ### Actions
 
+#### Coset Action and regular representation
 The functions
 ```magma
 CosetAction(G, H) : Grp, Grp -> Hom(Grp), GrpPerm, Grp
@@ -38,6 +39,8 @@ and only the kernel using
 CosetKernel(G, H) : Grp, Grp -> Grp
 ```
 
+
+#### Orbit action
 
 ---
 **Exercise**:  
@@ -101,7 +104,7 @@ PC-Relations:
 
 ```
 
-<details>
+</details>
 
 ---
 
@@ -121,7 +124,7 @@ group.
 > 
 
 ```
-<details>
+</details>
 
 
 
