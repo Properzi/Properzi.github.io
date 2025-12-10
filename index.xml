@@ -107,7 +107,8 @@ G:=SmallGroup(96,3);&lt;/p>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt; K;
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">GrpPC of order 1
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">PC-Relations:
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;details>
+&lt;hr>
 &lt;p>&lt;strong>Exercise&lt;/strong>:&lt;br>
 Write a function that returns the multiplication table of a given
 group.&lt;/p>
@@ -119,7 +120,8 @@ group.&lt;/p>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="rings">Rings&lt;/h2>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;details>
+&lt;h2 id="rings">Rings&lt;/h2>
 &lt;hr>
 &lt;p>&lt;strong>Exercise&lt;/strong>:&lt;br>
 Compute \(\mathcal{U}(\mathbb{Z}/5[X])\).&lt;/p>
