@@ -44,11 +44,12 @@ CosetKernel(G, H) : Grp, Grp -> Grp
 
 ---
 **Exercise**:  
-Let $G$ be the group ```magma
+Let $G$ be the group 
+```magma
 G:=SmallGroup(96,3);
 ```
 Can you give me a (faithful) permutation representation of $G$?
-```
+
 
 
 <details>
@@ -101,9 +102,7 @@ Homomorphism of GrpPC : G into GrpPerm: P, Degree 96 induced by
 > K;
 GrpPC of order 1
 PC-Relations:
-
 ```
-
 </details>
 
 ---
