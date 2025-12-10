@@ -4,18 +4,18 @@ linktitle: "Some Exercises"
 type: book
 ---
 
-# Magma Workshop
+# Exercises
 
 Here is a collection of some magma exercises done during the
 [magma workshop](https://leandrovendramin.org/magma/)
 
 ---
 
-## Exercises
 
+## Groups
 ---
 
-### Groups
+### Actions
 
 The functions
 ```magma
@@ -26,7 +26,18 @@ and
 RegularRepresentation(G, H) : Grp, Grp -> Hom(Grp), GrpPerm, Grp
 ```
 construct the permutation representation of $G$ on the (right) cosets of $H$ in $G$.
-It returns the homomorphism, the image and (if possible) the kernel
+It returns the homomorphism, the image and (if possible) the kernel.
+
+Note that you can get only the image using 
+```magma
+CosetImage(G, H) : Grp, Grp -> GrpPerm
+```
+
+and only the kernel using
+```magma
+CosetKernel(G, H) : Grp, Grp -> Grp
+```
+
 
 ---
 **Exercise**:  
@@ -110,7 +121,7 @@ group.
 
 
 
-### Rings
+## Rings
 
 ---
 
