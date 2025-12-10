@@ -100,6 +100,7 @@ GrpPC of order 1
 PC-Relations:
 
 ```
+<details>
 
 ---
 
@@ -119,7 +120,7 @@ group.
 > 
 
 ```
-
+<details>
 
 
 
