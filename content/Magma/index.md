@@ -45,6 +45,8 @@ Let $G$ be the group ```magma
 G:=SmallGroup(96,3);
 ```
 Can you give me a (faithful) permutation representation of $G$?
+```
+
 
 <details>
 <summary>Click to reveal the solution</summary>
