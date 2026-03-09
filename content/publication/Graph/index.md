@@ -15,8 +15,8 @@ doi: "https://doi.org/10.1016/j.jpaa.2025.107876"
 publication_types: ["Journal Article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Journal of Pure and Applied Algebra"
+publication_short: "J. Pure Appl. Algebra"
 
 abstract: We introduce two common divisor graphs associated with a finite skew brace, based on its $\lambda$- and $\theta$-orbits. We prove that the number of connected components is at most two and the diameter of a connected component is at most four. Furthermore, we investigate their relationship with isoclinism. Similarly to its group theoretic inspiration, the skew braces with a graph with two disconnected vertices are very restricted and are determined. Finally, we classify all finite skew braces with a graph with one vertex, where four infinite families arise.
 
