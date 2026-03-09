@@ -31,7 +31,7 @@ featured: false
 links:
 - name: url
   url: https://www.sciencedirect.com/science/article/abs/pii/S0022404925000155
-- name: arXiv
+- name: arXiv version
   url: https://arxiv.org/abs/2306.12415
 url_pdf: https://arxiv.org/pdf/2306.12415
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
