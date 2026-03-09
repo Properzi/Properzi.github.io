@@ -4,7 +4,7 @@ authors:
 - admin
 - Rosa Cascella
 - Arne Van Antwerpen
-date: "2026-3-06"
+date: "2026-03-06"
 doi: "https://arxiv.org/abs/2603.06177"
 
 # Schedule page publish date (NOT publication's date).
