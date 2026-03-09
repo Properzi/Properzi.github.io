@@ -4,7 +4,7 @@ authors:
 - Carsten Dietzel
 - admin
 - Senne Trappeniers
-- journal: "Communications in Algebra"
+journal: "Communications in Algebra"
 date: "2024-10-05"
 doi: "https://doi.org/10.1080/00927872.2024.2405024"
 
