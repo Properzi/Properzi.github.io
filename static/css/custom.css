@@ -1,0 +1,14 @@
+/* Widen all containers */
+.container {
+    max-width: 1400px !important;
+}
+
+/* Widen homepage sections */
+.home-section .container {
+    max-width: 1400px !important;
+}
+
+/* Optional: keep articles readable */
+.article-container {
+    max-width: 1100px !important;
+}
