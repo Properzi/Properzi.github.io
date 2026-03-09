@@ -1,6 +1,5 @@
 ---
-title: Involutive indecomposable solutions to the Yang-Baxter equation of prime-squared
-size
+title: Involutive indecomposable solutions to the Yang-Baxter equation of prime-squared size
 event: IX International Workshop on Non-Associative Algebras in Lisbon
 event_url: https://sites.google.com/view/nonassociativelisbon2025/home
 
@@ -9,8 +8,7 @@ location: Técnico - University of Lisbon, Lisbon, Portugal
 summary: NonassociativeLisbon2025
 
 abstract: ' Involutive indecomposable solutions to the Yang-Baxter equation (”solutions” for
-short) correspond to a transitive permutation group that encodes their combinatorial properties through an associated permutation skew brace. In joint work with Carsten Dietzel and
-Senne Trappeniers, building on works by Jedlička-Pilitowska and Cedó-Okniński, we fully classify solutions of prime-squared size.'
+short) correspond to a transitive permutation group that encodes their combinatorial properties through an associated permutation skew brace. In joint work with Carsten Dietzel and Senne Trappeniers, building on works by Jedlička-Pilitowska and Cedó-Okniński, we fully classify solutions of prime-squared size.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
