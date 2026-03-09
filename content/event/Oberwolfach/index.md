@@ -4,12 +4,6 @@ event: The Yang–Baxter Equation and Representations of Braid Groups (Oberwolfa
 event_url: https://publications.mfo.de/handle/mfo/4398
 
 location: Oberwolfach, Germany
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
 
 summary: Oberwolfach mini-workshop 2544b
 
