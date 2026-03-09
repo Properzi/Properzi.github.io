@@ -4,7 +4,6 @@ authors:
 - Carsten Dietzel
 - admin
 - Senne Trappeniers
-journal: "Communications in Algebra"
 date: "2024-10-05"
 doi: "https://doi.org/10.1080/00927872.2024.2405024"
 
@@ -17,8 +16,8 @@ doi: "https://doi.org/10.1080/00927872.2024.2405024"
 publication_types: ["Journal Article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Communications in Algebra"
+publication_short: "Commun. Algebra"
 
 abstract: This article focuses on indecomposable involutive non-degenerate set-theoretical solutions to the Yang–Baxter equation. More specifically, we give a full classification of those solutions which are of size $p^2$, for $p$ a prime. We do this through a thorough analysis of their associated permutation braces and using the language of cycle sets.
 # Summary. An optional shortened abstract.
