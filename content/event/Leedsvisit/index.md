@@ -1,6 +1,3 @@
-
-Leeds, UK
-
 ---
 title: Skew Braces, the YBE, and some results in the classification of solutions
 event: Algebra seminar
