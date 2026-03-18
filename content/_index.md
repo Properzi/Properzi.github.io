@@ -71,7 +71,7 @@ sections:
   - block: collection
     id: organised
     content:
-      title: organised 
+      title: Organised events
       filters:
         folders:
           - Organised scientific events
