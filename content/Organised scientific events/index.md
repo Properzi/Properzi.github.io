@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Organised scientific events
 cms_exclude: true
 #url: talk
 
