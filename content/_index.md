@@ -69,12 +69,12 @@ sections:
       view: compact
       columns: 1
   - block: collection
-    id: magma
+    id: organised
     content:
-      title: Magma workshop
+      title: organised 
       filters:
         folders:
-          - Magma
+          - Organised scientific events
     design:
       view: compact
       columns: 1
