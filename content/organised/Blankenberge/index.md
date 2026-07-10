@@ -5,7 +5,7 @@ event: Groups, Rings and the Yang-Baxter equation 2023
 event_url: https://www.ilariacolazzo.info/gryb2023/
 summary: Local organiser
 
-date: 2023-06-19 / 2023-06-23
+date: 2023-06
 #date_end: 2023-06-23
 #all_day: true
 
