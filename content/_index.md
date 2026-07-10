@@ -74,7 +74,7 @@ sections:
       title: Organised events
       filters:
         folders:
-          - Organised scientific events
+          - organised
     design:
       view: compact
       columns: 1
