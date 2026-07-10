@@ -7,7 +7,7 @@ summary: Local organiser
 
 date: 2023-06-19
 date_end: 2023-06-23
-all_day: true
+#all_day: true
 
 authors:
   - admin
