@@ -74,7 +74,7 @@ sections:
       title: Organised events
       filters:
         folders:
-          - organised
+          - event
     design:
       view: compact
       columns: 1
