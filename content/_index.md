@@ -76,7 +76,7 @@ sections:
         folders:
           - organised
     design:
-      view: compact
+      view: date-title-summary
       columns: 1
   - block: collection
     id: news
