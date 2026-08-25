@@ -58,7 +58,7 @@ sections:
   #      exclude_featured: false
   #  design:
   #    view: citation
-    - block: collection
+  - block: collection
     id: organised
     content:
       title: Organised events
