@@ -58,6 +58,16 @@ sections:
   #      exclude_featured: false
   #  design:
   #    view: citation
+    - block: collection
+    id: organised
+    content:
+      title: Organised events
+      filters:
+        folders:
+          - organised
+    design:
+      view: compact
+      columns: 1
   - block: collection
     id: talks
     content:
@@ -67,16 +77,6 @@ sections:
           - event
     design:
       view: compact
-      columns: 1
-  - block: collection
-    id: organised
-    content:
-      title: Organised events
-      filters:
-        folders:
-          - organised
-    design:
-      view: date-title-summary
       columns: 1
   - block: collection
     id: news
