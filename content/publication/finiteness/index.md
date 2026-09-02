@@ -30,9 +30,9 @@ featured: false
 links:
 links:
 - name: url
-  #url: https://doi.org/10.1007/s00009-026-03182-4
-  url: https://rdcu.be/fB9j4
+  url: https://doi.org/10.1007/s00009-026-03182-4
+  #url: https://rdcu.be/fB9j4
 - name: arXiv version
   url: https://arxiv.org/abs/2603.06177
-url_pdf: https://arxiv.org/pdf/2603.06177
+url_pdf: https://rdcu.be/fB9j4
 ---
