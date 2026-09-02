@@ -5,7 +5,7 @@ authors:
 - Rosa Cascella
 - Arne Van Antwerpen
 date: "2026-08-26"
-doi: "https://doi.org/10.1007/s00009-026-03182-4"
+doi: "https://doi.org/10.1080/00927872.2024.2405024"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
