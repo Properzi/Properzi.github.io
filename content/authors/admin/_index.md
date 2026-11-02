@@ -49,6 +49,7 @@ profiles:
 interests:
   - Skew braces
   - Set-theoretic solutions to the Yang-Baxter equation
+  - L-algebras
 
 education:
   #- area: PhD Artificial Intelligence
