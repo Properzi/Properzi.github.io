@@ -60,7 +60,7 @@ sections:
   - block: collection
     id: organised
     content:
-      title: Organized events
+      title: Organised events
       filters:
         folders:
           - organised
@@ -75,6 +75,6 @@ sections:
         folders:
           - event
     design:
-      view: compact
+      view: date-title-summary
       columns: 1
 ---
