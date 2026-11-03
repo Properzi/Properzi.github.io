@@ -188,4 +188,7 @@ I am a PhD student in Mathematics of [Leandro Vendramin](https://leandrovendrami
 
 My research interest focuses on algebraic structures related to the study of the combinatorial version of the Yang-Baxter equation.
 
+I am part of the organising team of IDEAL 2027, Together with [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home) and Marta Messia
+we are organizing the conference IDEAL 2027. The conference will take place in Brussels on 3–4 June 2027, for more info: [https://sites.google.com/view/idealconference/ideal-2027](https://sites.google.com/view/idealconference/ideal-2027). 
+
 I am currently organizing, together with [Charlotte Roelants](https://sites.google.com/view/charlotteroelants/home) and [Leandro Vendramin](https://leandrovendramin.org/), the [algebra seminar](https://leandrovendramin.org/team/seminar.html) at our department.
