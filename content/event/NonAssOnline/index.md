@@ -7,7 +7,7 @@ event_url: https://sites.google.com/view/enaaw
 
 location: Online
 
-summary: European Non-Associative Algebra Seminar
+summary: 'European Non-Associative Algebra Seminar'
 
 abstract: 'In this talk, we will present a construction, based on recent joint work with E. Jespers, T. Letourmy, M. Trombetti and A. Van Antwerpen, of free objects in the category of right nilpotent skew braces of bounded class. Although the existence of these free objects follows from general results in universal algebra, their explicit construction is much less straightforward. We will describe the main ideas behind the construction and some structural properties of the resulting skew braces. We will also introduce the corresponding class of right nilpotent solutions of the Yang--Baxter equation.'
 
