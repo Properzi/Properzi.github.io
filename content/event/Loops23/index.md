@@ -78,7 +78,7 @@ featured: false
 
 image:
   caption: ''
-  focal_point: Right
+  focal_point: Left
 
 #links:
 #  - icon: twitter
