@@ -1,0 +1,47 @@
+---
+title: Free skew braces: a construction in the right nilpotent setting
+subtitle: European Non-Associative Algebra Seminar
+
+event: European Non-Associative Algebra Seminar
+event_url: https://sites.google.com/view/enaaw
+
+location: Online
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
+
+summary: European Non-Associative Algebra Seminar
+
+abstract: 'In this talk, we will present a construction, based on recent joint work with E. Jespers, T. Letourmy, M. Trombetti and A. Van Antwerpen, of free objects in the category of right nilpotent skew braces of bounded class. Although the existence of these free objects follows from general results in universal algebra, their explicit construction is much less straightforward. We will describe the main ideas behind the construction and some structural properties of the resulting skew braces. We will also introduce the corresponding class of right nilpotent solutions of the Yang--Baxter equation.'
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: '2026-10-05'
+#date_end: '2026-10-05'
+all_day: true
+
+# Schedule page publish date (NOT talk date).
+#publishDate: '2017-01-01T00:00:00Z'
+
+authors:
+  - admin
+
+tags: []
+
+# Is this a featured talk? (true/false)
+featured: false
+
+image:
+  caption: ''
+  focal_point: Right
+
+#links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
+url_event: 'https://sites.google.com/view/enaaw'
+#url_poster: 
