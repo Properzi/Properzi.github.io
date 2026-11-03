@@ -1,8 +1,8 @@
 ---
 title: Free skew braces: a construction in the right nilpotent setting
-subtitle: European Non-Associative Algebra Seminar
+subtitle: 'European Non-Associative Algebra Seminar'
 
-event: European Non-Associative Algebra Seminar
+event: 'European Non-Associative Algebra Seminar'
 event_url: https://sites.google.com/view/enaaw
 
 location: Online
