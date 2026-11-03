@@ -1,5 +1,5 @@
 ---
-title: Free skew braces: a construction in the right nilpotent setting
+title: 'Free skew braces: a construction in the right nilpotent setting'
 subtitle: 'European Non-Associative Algebra Seminar'
 
 event: 'European Non-Associative Algebra Seminar'
