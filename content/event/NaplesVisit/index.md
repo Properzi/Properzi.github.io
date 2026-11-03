@@ -1,4 +1,3 @@
-
 ---
 title: 'Indecomposability of solutions to the Yang--Baxter equation via skew braces'
 
