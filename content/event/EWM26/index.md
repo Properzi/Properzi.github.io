@@ -1,7 +1,7 @@
 ---
 title: Free skew braces and free solutions of the Yang–Baxter equation
 
-event:  EWM 2026 General Meeting, Mini-symposium: Combinatorial Yang–Baxter Equation and Skew Braces
+event:  "EWM 2026 General Meeting, Mini-symposium: Combinatorial Yang–Baxter Equation and Skew Braces'
 event_url: https://sites.google.com/view/ewm-combinatorialybe
 
 location: Warwick, UK
