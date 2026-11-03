@@ -1,5 +1,6 @@
 ---
-title: 'Indecomposability of solutions to the Yang–Baxter equation via skew braces'
+title: 'Indecomposability of solutions  to the Yang--Baxter equation via skew braces'
+
 event: Algebra seminar
 #event_url: 
 
