@@ -38,9 +38,9 @@ sections:
   #  design:
   #    columns: '1'
   - block: collection
-    id: papers
+    id: publications
     content:
-      title: Papers
+      title: Publications
       filters:
         folders:
           - publication
